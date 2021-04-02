@@ -1,2 +1,2 @@
-# We-Love-Moviess
-Test
+# WE LOVE MOVIES API
+https://we-love-movies.vercel.app/
